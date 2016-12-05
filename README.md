@@ -62,7 +62,7 @@ Hack University will issue badges on [Badgr](http://info.badgr.io/) for all stud
 Schedule subject to change. Materials added each week.
 
 
-## [Class 1](Lessons/1_IntroDataAndScience):  Intro to Data and Science (October 11)
+## [Class 1](Lessons/01_IntroDataAndScience):  Intro to Data and Science (October 11)
 
 __Lecture__: 
 * The science in data science
@@ -74,7 +74,7 @@ __Exercise__: Lesson1\_Graphs.ipynb
 * Learn to make a variety of graph types using matplotlib.
 
 
-## [Class 2](Lessons/2_Probability): Probability Part 1 (October 13)
+## [Class 2](Lessons/02_Probability): Probability Part 1 (October 13)
    
 __Lecture__:
 * Defining probability
@@ -93,7 +93,7 @@ __Exercise__: Lesson2\_HotHands.ipynb
 * Compare a simulation to actual data in order to determine if the hot hand phenomenon appears to be real.
 
 
-## [Class 3](Lessons/3_Tools): Tools (October 18)
+## [Class 3](Lessons/03_Tools): Tools (October 18)
 
 __Lecture__: 
 * Overview of python packages numpy and pandas
@@ -105,7 +105,7 @@ __Exercise__: Lesson3\_LoadData.ipynb
 * Learn the basic functionality of a pandas DataFrame - read data from a csv file, select subsets of the data, plot the data.
 
 
-## [Class 4](Lessons/4_Probability): Probability Part 2 (October 20)
+## [Class 4](Lessons/04_Probability): Probability Part 2 (October 20)
 __Lecture__:
 * Central Limit Theorem
 * Assessing the normality of a distribution
@@ -115,7 +115,7 @@ __Lecture__:
 __Exercise__: Lesson4\_Distributions.ipynb
 * Assess the normality of a data set
 
-## [Class 5](Lessons/5_StatisticalInference): Statistical Inference (October 25)
+## [Class 5](Lessons/05_StatisticalInference): Statistical Inference (October 25)
 __Lecture__:
 * Inference
 * Central Limit Theorem
@@ -126,7 +126,7 @@ __Exercise__: Lesson5\_StatisticalInference.ipynb
 * Foundations for statistical inference: sampling distributions
 * Confidence intervals
 
-## [Class 6](Lessons/6_StatisticalInference) Statistical Inference (October 27)
+## [Class 6](Lessons/06_StatisticalInference) Statistical Inference (October 27)
 __Lecture__:
 * Inference for Numerical Data
 * Inference for Categorical Data
@@ -136,7 +136,7 @@ __Exercise__: Lesson6\_StatisticalInference.ipynb
 * Inference for numerical data
 * Inference for categorical data
 
-## [Class 7](Lessons/7_LinearRegression) Linear Regression (November 1)
+## [Class 7](Lessons/07_LinearRegression) Linear Regression (November 1)
 __Lecture__:
 * Fitting a line to data
 * Residuals
@@ -146,7 +146,7 @@ __Lecture__:
 __Exercise__: Lesson7\_LinearRegression.ipynb
 * Examine linear relationships in a data set and choose the best predictor
 
-## [Class 8](Lessons/8_MultipleRegression) Multiple Regression (November 3)
+## [Class 8](Lessons/08_MultipleRegression) Multiple Regression (November 3)
 __Lecture__:
 * Categorical explantory variables
 * Introduction to multiple regression
@@ -212,7 +212,12 @@ __Presentation 2: Exploratory Analysis__
 __Exercise__: Build model
 * Work on the model for your project
 
-## Class 14: K-means Clustering (December 1)
+## [Class 14](Lessons/14_Clustering): K-means Clustering (December 1)
+
+__Lecture__:
+* Introduction to clustering
+* K-means clustering algorithm
+* Very brief overview of hierarchical clustering
 
 __Exercise__: Project time
 * Continue working on your model
